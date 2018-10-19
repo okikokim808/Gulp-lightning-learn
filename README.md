@@ -1,6 +1,6 @@
 # Gulp-lightning-learn
-## What is Gulp
 
+### What is Gulp:
  Gulp.js is what we call a JavaScript Task Runner, it is Open Source and available on GitHub. It helps you automate repetitive tasks such as minification, compilation, unit testing, linting, etc. Gulp.js does not revolutionize automation but simplifies it tremendously.
  
 ### Gulp gives you:
