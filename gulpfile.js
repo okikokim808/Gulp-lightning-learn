@@ -36,6 +36,7 @@ gulp.task('minify-css', function(){
     .pipe(minifyCss())
     .pipe(gulp.dest('./minify/styles'))
 })
+
 // gulp.task('concat', function () {
 //     gulp.src('./styles/*.css') // path to your files
 //     .pipe(concat('concat.css'))  // concat and name it "concat.js"
